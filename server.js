@@ -15,6 +15,350 @@ app.get('/api/get_user_details',(req,res) => {
         },env :process.env.NAME
     })
 });
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+app.get('/api/get_user_details',(req,res) => {
+    res.send({
+        user:{
+            name:"hardik",
+            lastname: "Pansani",
+            contact:12254
+        },env :process.env.NAME
+    })
+});
+
+
 
 // Route to get a single user by ID
 app.get('/api/users/:id', (req, res) => {
