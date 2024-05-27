@@ -84,17 +84,6 @@ app.delete('/api/users/:id', (req, res) => {
 
 
 
-// Route to get a single user by ID
-app.get('/api/users/:id', (req, res) => {
-    const id = parseInt(req.params.id);
-    const user = users.find(user => user.id === id);
-    if (!user) {
-        return res.status(404).json({ message: 'User not found' });
-    }
-    res.json(user);
-});
-
-
 app.listen(process.env.PORT,() => {
     console.log("listening to 8000");
 })
