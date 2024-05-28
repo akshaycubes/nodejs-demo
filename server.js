@@ -34,6 +34,7 @@ let users = [
     { id: 11, name: 'John Doe', email: 'john@example.com' },
     { id: 11, name: 'be', email: 'be@example.com' },
     { id: 11, name: 'be2', email: 'be@example.com' },
+    { id: 11, name: 'kirtan', email: 'kirtan@example.com' },
 ];
 
 // Routes
